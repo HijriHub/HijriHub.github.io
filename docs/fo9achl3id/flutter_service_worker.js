@@ -28,8 +28,8 @@ const RESOURCES = {"assets/shaders/ink_sparkle.frag": "4096b5150bac93c41cbc9b452
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
 "canvaskit/skwasm.js": "87063acf45c5e1ab9565dcf06b0c18b8",
 "canvaskit/skwasm.wasm": "2fc47c0a0c3c7af8542b601634fe9674",
-"index.html": "2ee8ba1cc051cabac64df4ba461f9b82",
-"/": "2ee8ba1cc051cabac64df4ba461f9b82",
+"index.html": "bcced93c667277bfb300348911af250f",
+"/": "bcced93c667277bfb300348911af250f",
 "version.json": "1cfcc6113afa92c75e53404dd871f90c"};
 // The application shell files that are downloaded before a service worker can
 // start.
