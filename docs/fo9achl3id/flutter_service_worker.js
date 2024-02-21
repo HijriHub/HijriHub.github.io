@@ -3,16 +3,20 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/shaders/ink_sparkle.frag": "4096b5150bac93c41cbc9b45276bd90f",
-"assets/AssetManifest.bin": "3debc5a8dc60f399651a745a890aed07",
-"assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "3c31611fe3e295a547754d719fdba2be",
+const RESOURCES = {"assets/assets/icons/fo9achl3id-android-monochrome.png": "ce8550184fde510f4c8f608fc315b47a",
+"assets/assets/icons/icon-android.png": "fbde077d8ac2d2b571dae7f956d88681",
+"assets/assets/icons/fo9achl3id-android-background.png": "83d85a22fbf339262f3591a4c76419fd",
+"assets/assets/icons/fo9achl3id-android-foreground.png": "ce8550184fde510f4c8f608fc315b47a",
+"assets/shaders/ink_sparkle.frag": "4096b5150bac93c41cbc9b45276bd90f",
+"assets/AssetManifest.bin": "b2573f3a4d3a83a6338ae4e4dbbb89b8",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "eea90080384f9bc3c8c5faea30d47db7",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "a5d7457fda15b7622c14f432ba63039a",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "f25e8e701660fb45e2a81ff3f43c6d5c",
 "assets/fonts/MaterialIcons-Regular.otf": "93d06b8b46224c2b0e457d5625124e80",
-"assets/AssetManifest.bin.json": "9117d74063fd5c45be7a3fbe3a440b4e",
-"assets/NOTICES": "525ae8c4a9b8966c0b125dde21ff91f9",
+"assets/AssetManifest.bin.json": "ac97b6d9f6bab07754c50bd768dd2c90",
+"assets/NOTICES": "aa21129350a7ba49a74ce8273e46e68c",
 "assets/FontManifest.json": "3ddd9b2ab1c2ae162d46e3cc7b78ba88",
-"assets/AssetManifest.json": "e26ab0f0a9ebee8025260de29a88a4ca",
+"assets/AssetManifest.json": "b7229eaa2de8892f45bc7e5dad2b4088",
 "favicon.png": "ef09f954f4bf615fa2612b8b8ccd393e",
 "flutter.js": "7d69e653079438abfbb24b82a655b0a4",
 "manifest.json": "35b12d2942970999239e1ed3308fbe83",
@@ -20,7 +24,7 @@ const RESOURCES = {"assets/shaders/ink_sparkle.frag": "4096b5150bac93c41cbc9b452
 "icons/Icon-maskable-192.png": "c521de2b14c97ba74e8f9e4c265024f6",
 "icons/Icon-192.png": "c521de2b14c97ba74e8f9e4c265024f6",
 "icons/Icon-maskable-512.png": "c0a5b87b1a9048f6a75f0f2fafb41542",
-"main.dart.js": "20385a31bad86ef9edac85699e0d4993",
+"main.dart.js": "f33cb5b1324be07943d531049eaa9387",
 "canvaskit/canvaskit.js": "eb8797020acdbdf96a12fb0405582c1b",
 "canvaskit/chromium/canvaskit.js": "0ae8bbcc58155679458a0f7a00f66873",
 "canvaskit/chromium/canvaskit.wasm": "143af6ff368f9cd21c863bfa4274c406",
@@ -28,8 +32,8 @@ const RESOURCES = {"assets/shaders/ink_sparkle.frag": "4096b5150bac93c41cbc9b452
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
 "canvaskit/skwasm.js": "87063acf45c5e1ab9565dcf06b0c18b8",
 "canvaskit/skwasm.wasm": "2fc47c0a0c3c7af8542b601634fe9674",
-"index.html": "bcced93c667277bfb300348911af250f",
-"/": "bcced93c667277bfb300348911af250f",
+"index.html": "62c3eb316a921982da463a1aad86c119",
+"/": "62c3eb316a921982da463a1aad86c119",
 "version.json": "1cfcc6113afa92c75e53404dd871f90c"};
 // The application shell files that are downloaded before a service worker can
 // start.
