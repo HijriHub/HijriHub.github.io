@@ -24,7 +24,7 @@ const RESOURCES = {"assets/assets/icons/fo9achl3id-android-monochrome.png": "ce8
 "icons/Icon-maskable-192.png": "c521de2b14c97ba74e8f9e4c265024f6",
 "icons/Icon-192.png": "c521de2b14c97ba74e8f9e4c265024f6",
 "icons/Icon-maskable-512.png": "c0a5b87b1a9048f6a75f0f2fafb41542",
-"main.dart.js": "f33cb5b1324be07943d531049eaa9387",
+"main.dart.js": "3e0ae385474c827a06ba845c456d72ab",
 "canvaskit/canvaskit.js": "eb8797020acdbdf96a12fb0405582c1b",
 "canvaskit/chromium/canvaskit.js": "0ae8bbcc58155679458a0f7a00f66873",
 "canvaskit/chromium/canvaskit.wasm": "143af6ff368f9cd21c863bfa4274c406",
@@ -32,8 +32,8 @@ const RESOURCES = {"assets/assets/icons/fo9achl3id-android-monochrome.png": "ce8
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
 "canvaskit/skwasm.js": "87063acf45c5e1ab9565dcf06b0c18b8",
 "canvaskit/skwasm.wasm": "2fc47c0a0c3c7af8542b601634fe9674",
-"index.html": "62c3eb316a921982da463a1aad86c119",
-"/": "62c3eb316a921982da463a1aad86c119",
+"index.html": "73c12c15c943b7728e247056eb94d5da",
+"/": "73c12c15c943b7728e247056eb94d5da",
 "version.json": "1cfcc6113afa92c75e53404dd871f90c"};
 // The application shell files that are downloaded before a service worker can
 // start.
