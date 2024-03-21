@@ -1,0 +1,63 @@
+{
+  "authority_id": "mar",
+  "authority_class": "DataHijriAuthority",
+  "authority_description": "Default authority for: Morocco",
+  "verdict_type": "announced_sighting",
+  "conversion_type": "data",
+  "authority_url": "https://www.habous.gov.ma/",
+  "countries": [
+    "mar"
+  ],
+  "sources": [
+    "icop_historic",
+    "icop_historic_manual",
+    "mar_bo",
+    "mar_habous"
+  ],
+  "data_path": "./data/authority/mar.data.json",
+  "prediction_data_path": "./data/authority/mar.prediction.data.json",
+  "info": {
+    "ar": {
+      "short_name": "وزارة الأوقاف",
+      "long_name": "وزارة الأوقاف والشؤون الإسلامية",
+      "short_description": "الجهة الرسمية المعنية بمراقبة الأهلة في المغرب"
+    },
+    "en": {
+      "short_name": "Habous",
+      "long_name": "Ministry of Religious Endowments and Islamic Affairs",
+      "short_description": "The official authority concerned with observing the new moon in Morocco"
+    },
+    "fr": {
+      "short_name": "Habous",
+      "long_name": "Ministère des Habous et des Affaires islamiques",
+      "short_description": "L'autorité officielle chargée de l'observation de la nouvelle lune au Maroc"
+    }
+  },
+  "additional_notes": {
+    "stats": {
+      "first_month": "1419-09",
+      "last_month": "1444-11",
+      "total": 303,
+      "gap_count": 0,
+      "by_source": {
+        "icop_historic_manual": 7,
+        "mar_bo": 57,
+        "icop_historic": 225,
+        "mar_habous": 14
+      },
+      "bias_certainty": 0.701986
+    }
+  },
+  "bias": 0.0489,
+  "prediction_models": {
+    "models": [
+      "mar_yallop_6marLoc",
+      "mar_RF_6marLoc"
+    ],
+    "range": [
+      0,
+      120
+    ]
+  },
+  "check_data": true
+}

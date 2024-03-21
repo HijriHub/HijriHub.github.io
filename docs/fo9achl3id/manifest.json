@@ -1,12 +1,12 @@
 {
-    "name": "fo9achl3id",
-    "short_name": "fo9achl3id",
+    "name": "فوقاش العيد",
+    "short_name": "فوقاش العيد",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
-    "orientation": "portrait-primary",
+    "description": "التاريخ الهجري وتوقع رؤية الهلال في المغرب.",
+    "orientation": "portrait",
     "prefer_related_applications": false,
     "icons": [
         {
