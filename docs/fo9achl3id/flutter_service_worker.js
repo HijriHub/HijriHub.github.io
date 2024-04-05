@@ -26,7 +26,7 @@ const RESOURCES = {"assets/assets/data/mar.json": "89101b875d25956b38e527f368825
 "icons/Icon-maskable-192.png": "c521de2b14c97ba74e8f9e4c265024f6",
 "icons/Icon-192.png": "c521de2b14c97ba74e8f9e4c265024f6",
 "icons/Icon-maskable-512.png": "c0a5b87b1a9048f6a75f0f2fafb41542",
-"main.dart.js": "efe007825a6d58d5a3f14e45e4a554de",
+"main.dart.js": "37157a8814a86afca2f78e4f0740fb1b",
 "canvaskit/canvaskit.js": "eb8797020acdbdf96a12fb0405582c1b",
 "canvaskit/chromium/canvaskit.js": "0ae8bbcc58155679458a0f7a00f66873",
 "canvaskit/chromium/canvaskit.wasm": "143af6ff368f9cd21c863bfa4274c406",
@@ -34,8 +34,8 @@ const RESOURCES = {"assets/assets/data/mar.json": "89101b875d25956b38e527f368825
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
 "canvaskit/skwasm.js": "87063acf45c5e1ab9565dcf06b0c18b8",
 "canvaskit/skwasm.wasm": "2fc47c0a0c3c7af8542b601634fe9674",
-"index.html": "8862f49fb88a683e268f04919a801d74",
-"/": "8862f49fb88a683e268f04919a801d74",
+"index.html": "3d42df6457790e922d15b9db135d9f7b",
+"/": "3d42df6457790e922d15b9db135d9f7b",
 "version.json": "1cfcc6113afa92c75e53404dd871f90c"};
 // The application shell files that are downloaded before a service worker can
 // start.
